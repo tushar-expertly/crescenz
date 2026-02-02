@@ -178,7 +178,7 @@ const SingleTrainingDetail = () => {
                 </div>
 
                 <div className="ml-14 mt-5 text-sm text-black-500">
-                  {formattedTimeEST} EST/ {formattedTimePST} PST
+                  {formattedTimeEST} ET/ {formattedTimePST} PT
                 </div>
               </div>
 
